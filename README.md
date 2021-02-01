@@ -1,1 +1,1 @@
-StemWijzer(nieuwe pc)
+stemwijzer
